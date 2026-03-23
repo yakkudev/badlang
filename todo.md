@@ -1,0 +1,4 @@
+- the parser
+- fixing some lexer EOL bugs
+- throwing more errors in the lexer (like scanuntil should throw when at EOF and nothing was found)
+- support for other number literals

@@ -1,3 +1,5 @@
+namespace badlang;
+
 internal class Token {
     internal enum TokenType {
         LEFT_PAREN, RIGHT_PAREN,
