@@ -1,0 +1,11 @@
+i32 variable = 1123;
+
+// comment
+
+/* multiline
+comment
+wahoo */
+
+fun:i32 main() {
+    ret variable;
+}
